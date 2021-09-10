@@ -17,9 +17,9 @@
 <a id="user-content-software-developer-" class="anchor" aria-hidden="true" href="#software-developer-">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></pre></div>
 </article>
-   <div><img src="https://github-readme-stats.vercel.app/api?username=uppy19d0&amp;show_icons=true" style="max-width:100%;">
-                  <a href="https://app.daily.dev/uppython"><img src="https://api.daily.dev/devcards/c5677e472cb14300802b1443a77c9583.png?r=mml" width="200" alt="LTavarez's Dev Card"/></a>
-                  </div>
+   <div>
+   <img src="https://github-readme-stats.vercel.app/api?username=uppy19d0&amp;show_icons=true" style="max-width:100%;">
+   </div>
   </div>
 </div>   
   </div>
