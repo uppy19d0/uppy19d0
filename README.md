@@ -18,12 +18,17 @@
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></pre></div>
 </article>
    <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=uppy19d0&amp;show_icons=true" style="max-width:100%;">
+   <img src="https://github-readme-stats.vercel.app/api?username=uppy19d0&amp;show_icons=true&theme=tokyonight" style="max-width:100%;">
    </div>
            
 #### My Streaks And Contributions :fire:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uppy19d0&theme=tokyonight)  
+___
+ #### Most used languages 🥇:
+
+![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=uppy19d0&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
+
 ___
 
   </div>
