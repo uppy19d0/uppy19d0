@@ -30,7 +30,9 @@ ___
 ![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=uppy19d0&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
 
 ___
-
+                  
+___
+<a href="https://app.daily.dev/uppython"><img src="https://api.daily.dev/devcards/c5677e472cb14300802b1443a77c9583.png?r=2gx" width="400" alt="LTavarez's Dev Card"/></a>
   </div>
 </div>   
   </div>
