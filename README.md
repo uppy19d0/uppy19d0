@@ -29,11 +29,70 @@ ___
 
 ![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=uppy19d0&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
 
-___
-                  
-___
+___________________________
 <a href="https://app.daily.dev/uppython"><img src="https://api.daily.dev/devcards/c5677e472cb14300802b1443a77c9583.png?r=2gx" width="400" alt="LTavarez's Dev Card"/></a>
   </div>
+___________________________
+ <h3 align="left">Languages and Tools:</h3>
+         
+<a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> 
+</a>
+<a href="https://www.python.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
+</a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width="70" height="70"/> 
+</a>
+ <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/> </a>          
+ <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="70" height="70"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" width="80" height="80"/>
+</a>
+<a href="https://kafka.apache.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="70" height="70"/>
+</a>  
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>
+<a href="https://nodejs.org" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/>
+<a>       
+<a href="https://www.nginx.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/> 
+</a>       
+<a href="https://postman.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> 
+</a>
+<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="70" height="70"/> </a> 
+<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="70" height="70"/> </a>
+<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="70" height="70"/> </a>
+ <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="70" height="70"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/> </a>
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a>
+<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="70" height="70"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="70" height="70"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a>
+<a href="https://angular.io" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="70" height="70"/> 
+</a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="70"/>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="70"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a>
+ <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="70"/> </a>
+<a href="https://dart.dev/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="Dart" width="70" height="70"/> </a>
+<a href="https://flutter.dev/?gclid=CjwKCAjw2P-KBhByEiwADBYWCvRg6Q3EqO2PURo-cOw_-ixNo1lQoRwPoWvwGd-N1wvDIReIYLdChRoC12wQAvD_BwE&gclsrc=aw.ds" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="70" height="70"/> </a>
+<a href="https://play.google.com/intl/au/console/about/?utm_source=google&utm_medium=cpc&utm_campaign=Console2020-Branded&utm_term=google%20play%20console%7ce&utm_content=501798947015&gclid=CjwKCAjw2P-KBhByEiwADBYWCk1QXnh0qgMreorBD-dB6XqXCnwqPBV46Cnph3Zr35VOC_0LrxsRQBoCZGgQAvD_BwE" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="Google Play" width="100" height="100"/> </a>
+<a href="https://cloud.google.com/maps-platform/pricing/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg" alt="GoogleMaps" width="70" height="70"/> </a>
+<a href="https://firebase.google.com/?hl=es-419&gclsrc=aw.ds&gclid=EAIaIQobChMIh8e_0sy88wIVCJ2zCh02zwrsEAAYASAAEgIo2vD_BwE" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="GoogleMaps" width="70" height="70"/> </a>     
 </div>   
   </div>
 
