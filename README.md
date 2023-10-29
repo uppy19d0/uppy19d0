@@ -25,9 +25,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uppy19d0&theme=tokyonight)  
 ___
- #### Most used languages 🥇:
-
-![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=uppy19d0&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
+[![@championrunner's Holopin board](https://holopin.me/uppy19d01)](https://holopin.io/@uppy19d01)
 
 ___________________________
 <a href="https://app.daily.dev/uppython"><img src="https://api.daily.dev/devcards/c5677e472cb14300802b1443a77c9583.png?r=x5z" width="400" alt="LTavarez's Dev Card"/></a>
