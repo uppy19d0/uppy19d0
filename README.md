@@ -25,7 +25,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uppy19d0&theme=tokyonight)  
 ___
-[![@championrunner's Holopin board](https://holopin.me/uppy19d01)](https://holopin.io/@uppy19d01)
+[![@uppy19d01's Holopin board](https://holopin.me/uppy19d01)](https://holopin.io/@uppy19d01)
 
 ___________________________
 <a href="https://app.daily.dev/uppython"><img src="https://api.daily.dev/devcards/c5677e472cb14300802b1443a77c9583.png?r=x5z" width="400" alt="LTavarez's Dev Card"/></a>
