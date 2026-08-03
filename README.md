@@ -1,94 +1,198 @@
-<div class="position-relative">
-            
-  <div class="Box mt-4">
-  <div class="Box-body p-4">
-    <div class="d-flex">
-      <div class="text-mono text-small mb-3 flex-auto">
-        <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path></svg>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"><img src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width:100%;" width="230" align="right"></a></p>
-<h2><a id="user-content-im-victor-j-rosario-v-" class="anchor" aria-hidden="true" href="#im-victor-j-rosario-v-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-<path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I'm Luis Aneuris Tavarez De Jesus. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width:100%;" width="30px"></a></h2>
-<p>
-<a href="https://github.com/uppy19d0/uppy19d0">
-<img src="https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&amp;logo=github" alt="GitHub" data-canonical-src="https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&amp;logo=github" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/luis-aneuris-tavarez-de-jesus-a2400b174/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&amp;logo=github" style="max-width:100%;">
-</a>
-<a href="mailto:luisaneuris60@gmail.com"><img src="https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact" data-canonical-src="https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
-</p>
-<a id="user-content-software-developer-" class="anchor" aria-hidden="true" href="#software-developer-">
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></pre></div>
-</article>
-   <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=uppy19d0&amp;show_icons=true&theme=tokyonight" style="max-width:100%;">
-   </div>
-           
-#### My Streaks And Contributions :fire:
+<div align="center">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uppy19d0&theme=tokyonight)  
-___
-[![@uppy19d01's Holopin board](https://holopin.me/uppy19d01)](https://holopin.io/@uppy19d01)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1f6feb,100:58a6ff&text=Luis%20Aneuris%20Tavarez&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Engineering%20%E2%80%A2%20Production%20Reliability%20%E2%80%A2%20Cloud%20Architecture&descAlignY=58&animation=fadeIn" width="100%" alt="Luis Aneuris Tavarez profile banner" />
 
-___________________________
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+%26+Production+Engineering+Leader;Building+reliable+digital+banking+platforms;Coding+since+2017;Node.js+%7C+TypeScript+%7C+Java+%7C+C%23+%7C+AWS)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-uppy19d0-181717?style=for-the-badge&logo=github)](https://github.com/uppy19d0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Aneuris%20Tavarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-aneuris-tavarez-de-jesus-a2400b174/)
+[![npm](https://img.shields.io/badge/npm-luisaneuris60-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~luisaneuris60)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisaneuris60@gmail.com)
+
+<br />
+
+<img src="./assets/experience.svg" alt="Automatically calculated coding experience since 2017" />
+
+</div>
+
+## 👨‍💻 About Me
+
+I am a **Software Engineer and Backend Engineering Leader** who has been building software since **2017**. I design, develop, and operate production-grade platforms with a strong focus on **digital banking, distributed systems, cloud architecture, microservices, observability, and service reliability**.
+
+I currently help lead backend development and production operations for a digital banking ecosystem in the Caribbean. I also teach software development, mentor emerging engineers, and publish open-source tools for safer and more maintainable systems.
+
+- 🏦 Building resilient financial services and highly available backend platforms.
+- ⚙️ Leading production reliability, incident response, observability, and technical delivery.
+- ☁️ Working with AWS, Azure, containers, serverless workloads, and event-driven architectures.
+- 🎓 Software development professor and technical mentor.
+- 📦 Publisher of **10 npm packages** for logging, migration safety, and reusable UI components.
+
+## 🎯 Engineering Focus
+
+```text
+Backend Engineering     ████████████████████  Node.js, Java, C#, APIs
+Production Reliability  ███████████████████░  Monitoring, incidents, resilience
+Cloud Architecture      ██████████████████░░  AWS, Azure, containers, serverless
+Distributed Systems     ██████████████████░░  Kafka, queues, microservices
+Technical Leadership    ███████████████████░  Delivery, mentoring, standards
+```
+
+## 🛠️ Technology Stack
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### ⚙️ Backend Frameworks, Runtimes & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🎨 Frontend & Mobile Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### 📚 Libraries, Testing & ORMs
+
+**Node.js / TypeScript**
+
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=000000)
+![Knex.js](https://img.shields.io/badge/Knex.js-D26B38?style=flat-square&logo=knexdotjs&logoColor=white)
+![Objection.js](https://img.shields.io/badge/Objection.js-222222?style=flat-square&logo=nodedotjs&logoColor=white)
+![MikroORM](https://img.shields.io/badge/MikroORM-6231AF?style=flat-square&logo=mikroorm&logoColor=white)
+
+**Java**
+
+![JPA](https://img.shields.io/badge/JPA%20%2F%20Jakarta%20Persistence-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+**C# / .NET**
+
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-6B4FBB?style=flat-square&logo=dotnet&logoColor=white)
+
+**Validation & Testing**
+
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-0080FF?style=flat-square&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+### ☁️ Cloud, Serverless & Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+
+### 🧰 DevOps, Tools & Observability
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-111827?style=flat-square&logo=dokploy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000)
+
+### 📨 Event-Driven & Messaging
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+
+### 🗄️ Databases, Search & Cache
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+## 📦 Published npm Packages
+
+<div align="center">
+
+[![npm packages](https://img.shields.io/badge/Published%20Packages-10-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~luisaneuris60)
+
+</div>
+
+| Package | Area | Description | Version |
+|---|---|---|---|
+| [`pii-safe-logger`](https://www.npmjs.com/package/pii-safe-logger) | Logging & security | PII-safe structured logger and redaction utilities for JavaScript and TypeScript. | ![npm](https://img.shields.io/npm/v/pii-safe-logger?style=flat-square&logo=npm) |
+| [`migration-guard-core`](https://www.npmjs.com/package/migration-guard-core) | Migration safety | Shared migration safety rule engine for Node.js ORM migration guards. | ![npm](https://img.shields.io/npm/v/migration-guard-core?style=flat-square&logo=npm) |
+| [`drizzle-migration-guard`](https://www.npmjs.com/package/drizzle-migration-guard) | Drizzle ORM | Migration safety guard helpers for Drizzle. | ![npm](https://img.shields.io/npm/v/drizzle-migration-guard?style=flat-square&logo=npm) |
+| [`knex-migration-guard`](https://www.npmjs.com/package/knex-migration-guard) | Knex / Objection.js | Migration safety guard helpers for Knex and Objection.js. | ![npm](https://img.shields.io/npm/v/knex-migration-guard?style=flat-square&logo=npm) |
+| [`mikro-orm-migration-guard`](https://www.npmjs.com/package/mikro-orm-migration-guard) | MikroORM | Migration safety guard helpers for MikroORM. | ![npm](https://img.shields.io/npm/v/mikro-orm-migration-guard?style=flat-square&logo=npm) |
+| [`prisma-migration-guard`](https://www.npmjs.com/package/prisma-migration-guard) | Prisma | Migration safety guard helpers for Prisma Migrate. | ![npm](https://img.shields.io/npm/v/prisma-migration-guard?style=flat-square&logo=npm) |
+| [`sequelize-migration-guard`](https://www.npmjs.com/package/sequelize-migration-guard) | Sequelize | Migration safety guard helpers for Sequelize. | ![npm](https://img.shields.io/npm/v/sequelize-migration-guard?style=flat-square&logo=npm) |
+| [`typeorm-migration-guard`](https://www.npmjs.com/package/typeorm-migration-guard) | TypeORM | Migration safety guard helpers for TypeORM. | ![npm](https://img.shields.io/npm/v/typeorm-migration-guard?style=flat-square&logo=npm) |
+| [`node-orm-migration-guard`](https://www.npmjs.com/package/node-orm-migration-guard) | Unified Node.js API | Unified migration safety guard for popular Node.js ORMs and migration tools. | ![npm](https://img.shields.io/npm/v/node-orm-migration-guard?style=flat-square&logo=npm) |
+| [`dominican-republic-map`](https://www.npmjs.com/package/dominican-republic-map) | Maps & UI | Interactive, touch-friendly Dominican Republic SVG map for React and Web Components. | ![npm](https://img.shields.io/npm/v/dominican-republic-map?style=flat-square&logo=npm) |
+
+## 🧑‍🚀 Daily.dev Card
+
+<div align="center">
+
 <a href="https://app.daily.dev/uppython"><img src="https://api.daily.dev/devcards/c5677e472cb14300802b1443a77c9583.png?r=x5z" width="400" alt="LTavarez's Dev Card"/></a>
-  </div>
-___________________________
- <h3 align="left">Languages and Tools:</h3>
-         
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> 
-</a>
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
-</a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width="70" height="70"/> 
-</a>
- <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/> </a>          
- <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="70" height="70"/> </a>
-<a href="https://www.rabbitmq.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" width="80" height="80"/>
-</a>
-<a href="https://kafka.apache.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="70" height="70"/>
-</a>  
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/>
-<a>       
-<a href="https://www.nginx.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/> 
-</a>       
-<a href="https://postman.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> 
-</a>
-<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="70" height="70"/> </a> 
-<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="70" height="70"/> </a>
-<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="70" height="70"/> </a>
- <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="70" height="70"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/> </a>
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a>
-<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="70" height="70"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="70" height="70"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="70"/>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="70"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a>
- <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="70"/> </a>
-<a href="https://dart.dev/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="Dart" width="70" height="70"/> </a>
-<a href="https://flutter.dev/?gclid=CjwKCAjw2P-KBhByEiwADBYWCvRg6Q3EqO2PURo-cOw_-ixNo1lQoRwPoWvwGd-N1wvDIReIYLdChRoC12wQAvD_BwE&gclsrc=aw.ds" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="70" height="70"/> </a>
-<a href="https://play.google.com/intl/au/console/about/?utm_source=google&utm_medium=cpc&utm_campaign=Console2020-Branded&utm_term=google%20play%20console%7ce&utm_content=501798947015&gclid=CjwKCAjw2P-KBhByEiwADBYWCk1QXnh0qgMreorBD-dB6XqXCnwqPBV46Cnph3Zr35VOC_0LrxsRQBoCZGgQAvD_BwE" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="Google Play" width="100" height="100"/> </a>
-<a href="https://cloud.google.com/maps-platform/pricing/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg" alt="GoogleMaps" width="70" height="70"/> </a>
-<a href="https://firebase.google.com/?hl=es-419&gclsrc=aw.ds&gclid=EAIaIQobChMIh8e_0sy88wIVCJ2zCh02zwrsEAAYASAAEgIo2vD_BwE" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="GoogleMaps" width="70" height="70"/> </a>     
-</div>   
-  </div>
+
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=uppy19d0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Luis's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppy19d0&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Luis's most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=uppy19d0&theme=github-dark-blue&hide_border=true" alt="Luis's GitHub streak" />
+
+</div>
+
+## 🤝 Let's Connect
+
+I am interested in conversations about **backend architecture, production engineering, cloud-native systems, software leadership, fintech, and open-source collaboration**.
+
+<div align="center">
+
+**“Success is the sum of small efforts repeated day after day.”**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0d1117,50:1f6feb,100:58a6ff" width="100%" alt="Footer" />
 
 </div>
