@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1f6feb,100:58a6ff&text=Luis%20Aneuris%20Tavarez&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Engineering%20%E2%80%A2%20Production%20Reliability%20%E2%80%A2%20Cloud%20Architecture&descAlignY=58&animation=fadeIn" width="100%" alt="Luis Aneuris Tavarez profile banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+%26+Production+Engineering+Leader;Building+reliable+digital+banking+platforms;Coding+since+2017;Node.js+%7C+TypeScript+%7C+Java+%7C+C%23+%7C+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=Backend+%26+Production+Engineering+Leader;Delivering+production+software+since+2017;Building+reliable+banking+and+business+platforms;Node.js+%7C+TypeScript+%7C+Java+%7C+C%23+%7C+AWS)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-uppy19d0-181717?style=for-the-badge&logo=github)](https://github.com/uppy19d0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Aneuris%20Tavarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-aneuris-tavarez-de-jesus-a2400b174/)
@@ -11,21 +11,42 @@
 
 <br />
 
-<img src="./assets/experience.svg" alt="Automatically calculated coding experience since 2017" />
+<img src="./assets/experience.svg" alt="Automatically calculated production software experience since 2017" />
 
 </div>
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer and Backend Engineering Leader** who has been building software since **2017**. I design, develop, and operate production-grade platforms with a strong focus on **digital banking, distributed systems, cloud architecture, microservices, observability, and service reliability**.
+I am a **Software Engineer and Backend Engineering Leader with 9 years of experience building, evolving, and operating production-grade software systems**. I specialize in designing scalable, resilient, and business-critical platforms that support complex operational and financial processes.
 
-I currently help lead backend development and production operations for a digital banking ecosystem in the Caribbean. I also teach software development, mentor emerging engineers, and publish open-source tools for safer and more maintainable systems.
+My core expertise includes **backend engineering, digital banking, FinTech, distributed systems, microservices, cloud architecture, observability, performance optimization, and service reliability**. I work across the complete software lifecycle, from architecture and technical design to implementation, production deployment, incident management, continuous improvement, and operational resilience.
+
+Throughout my career, I have delivered software solutions across **banking, financial services, ERP, CRM, retail, supermarkets, e-commerce, and enterprise integrations**. I currently help lead backend engineering and production operations for a digital banking ecosystem serving the Caribbean.
+
+Beyond my professional responsibilities, I teach software development, mentor engineers, contribute to technical communities, and publish open-source tools focused on building safer, more reliable, and maintainable software systems.
+
 
 - 🏦 Building resilient financial services and highly available backend platforms.
 - ⚙️ Leading production reliability, incident response, observability, and technical delivery.
+- 🧩 Delivering ERP, CRM, retail, supermarket, and e-commerce solutions and integrations.
 - ☁️ Working with AWS, Azure, containers, serverless workloads, and event-driven architectures.
 - 🎓 Software development professor and technical mentor.
 - 📦 Publisher of **10 npm packages** for logging, migration safety, and reusable UI components.
+
+## 🏢 Industry & Business Domain Experience
+
+![Digital Banking](https://img.shields.io/badge/Digital%20Banking-0A66C2?style=flat-square)
+![FinTech](https://img.shields.io/badge/FinTech-1F6FEB?style=flat-square)
+![ERP](https://img.shields.io/badge/ERP-6F42C1?style=flat-square)
+![CRM](https://img.shields.io/badge/CRM-8957E5?style=flat-square)
+![Retail](https://img.shields.io/badge/Retail-EA4AAA?style=flat-square)
+![Supermarkets](https://img.shields.io/badge/Supermarkets-2DA44E?style=flat-square)
+![E-commerce](https://img.shields.io/badge/E--commerce-F97316?style=flat-square)
+![Enterprise Integrations](https://img.shields.io/badge/Enterprise%20Integrations-0969DA?style=flat-square)
+
+- **Banking & FinTech:** digital banking products, financial integrations, payments, reliability, and production operations.
+- **ERP & CRM:** enterprise workflows, business process automation, integrations, and platforms such as **Odoo** and **SAP Business One**.
+- **Retail, supermarkets & e-commerce:** commercial platforms, product and transactional workflows, customer-facing applications, and back-office integrations.
 
 ## 🎯 Engineering Focus
 
@@ -34,6 +55,7 @@ Backend Engineering     ██████████████████�
 Production Reliability  ███████████████████░  Monitoring, incidents, resilience
 Cloud Architecture      ██████████████████░░  AWS, Azure, containers, serverless
 Distributed Systems     ██████████████████░░  Kafka, queues, microservices
+Enterprise Platforms    █████████████████░░░  FinTech, ERP, CRM, retail, e-commerce
 Technical Leadership    ███████████████████░  Delivery, mentoring, standards
 ```
 
@@ -65,16 +87,31 @@ Technical Leadership    ██████████████████�
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🎨 Frontend & Mobile Frameworks
+### 🎨 Frontend Web Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 📱 Mobile Frameworks & Platforms
+
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
 
-### 📚 Libraries, Testing & ORMs
+### 📚 Libraries, Validation & Testing
+
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-0080FF?style=flat-square&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+### 🧬 ORMs & Data Access
 
 **Node.js / TypeScript**
 
@@ -96,24 +133,18 @@ Technical Leadership    ██████████████████�
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-6B4FBB?style=flat-square&logo=dotnet&logoColor=white)
 
-**Validation & Testing**
-
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Joi](https://img.shields.io/badge/Joi-0080FF?style=flat-square&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-### ☁️ Cloud, Serverless & Platforms
+### ☁️ Cloud & Serverless
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
 
-### 🧰 DevOps, Tools & Observability
+### 🧰 DevOps, Delivery, Integration & Observability
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -121,7 +152,9 @@ Technical Leadership    ██████████████████�
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![IBM API Connect](https://img.shields.io/badge/IBM%20API%20Connect-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
@@ -133,17 +166,25 @@ Technical Leadership    ██████████████████�
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
 
-### 🗄️ Databases, Search & Cache
+### 🗄️ Relational & SQL Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🧾 NoSQL & Key-Value Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+
+### 🔎 Search, Cache & Data Services
+
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ## 📦 Published npm Packages
 
@@ -187,7 +228,7 @@ Technical Leadership    ██████████████████�
 
 ## 🤝 Let's Connect
 
-I am interested in conversations about **backend architecture, production engineering, cloud-native systems, software leadership, fintech, and open-source collaboration**.
+I am interested in conversations about **backend architecture, production engineering, cloud-native systems, software leadership, FinTech, enterprise platforms, and open-source collaboration**.
 
 <div align="center">
 
